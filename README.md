@@ -1,4 +1,4 @@
-# ndarray-tile [![Build Status](https://travis-ci.org/scijs/ndarray-tile.svg)](https://travis-ci.org/scijs/ndarray-tile) [![npm version](https://badge.fury.io/js/ndarray-tile.svg)](https://badge.fury.io/js/ndarray-tile)
+# ndarray-tile [![Build Status](https://travis-ci.org/scijs/ndarray-tile.svg)](https://travis-ci.org/scijs/ndarray-tile) [![npm version](https://badge.fury.io/js/ndarray-tile.svg)](https://badge.fury.io/js/ndarray-tile) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 > Repeat an ndarray
 
