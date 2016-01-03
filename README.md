@@ -11,7 +11,7 @@ This module takes an input ndarray and repeats it some number of times in each d
 ## Examples
 
 ```javascript
-var tile = require('../')
+var tile = require('ndarray-tile')
 var ndarray = require('ndarray')
 
 // Repeat a vector:
