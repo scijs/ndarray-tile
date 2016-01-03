@@ -1,6 +1,6 @@
 {
   "name": "ndarray-tile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Repeat an ndarray",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "ndarray",
     "tile"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scijs/ndarray-tile.git"
+  },
   "author": "Ricky Reusser",
   "license": "MIT",
   "devDependencies": {
