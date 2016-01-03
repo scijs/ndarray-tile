@@ -1,6 +1,6 @@
 {
   "name": "ndarray-tile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repeat an ndarray",
   "main": "index.js",
   "scripts": {
