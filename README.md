@@ -1,6 +1,4 @@
-# ndarray-tile
-
-[![Build Status](https://travis-ci.org/scijs/ndarray-tile.svg)](https://travis-ci.org/scijs/ndarray-tile)
+# ndarray-tile [![Build Status](https://travis-ci.org/scijs/ndarray-tile.svg)](https://travis-ci.org/scijs/ndarray-tile)
 
 > Repeat an ndarray
 
