@@ -43,7 +43,7 @@ $ npm install ndarray-tile
 #### `require('ndarray-tile')([output,] input, reps)`
 Tile ndarray `input` a number of times according to `reps` in each dimension.
 
-Arguments:
+**Arguments**:
 
 - `output` (optional): Optional output array. If not provided, storage is allocated using [`ndarray-scratch`](https://github.com/scijs/ndarray-scratch).
 - `input`: The input ndarray to be tiled
@@ -51,6 +51,7 @@ Arguments:
   - If the length of `reps` is less than the dimemsionality of `input`, the ommitted dimensions are implicitly assumed to be one.
   - If the length of reps is greater than the dimensionality of `input`, then `input` is tiled in the new dimensions as specified.
 
+**Returns**: a reference to the tiled output
 
 ## License
 &copy; 2016 Ricky Reusser. MIT License.
